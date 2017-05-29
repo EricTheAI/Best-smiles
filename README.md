@@ -1,6 +1,2 @@
-# hello-world
-Just to have a test
-
-Hi Humans!
-
-Eric here, I like coding and I will keep going!
+# Best Smiles
+An application to generate the best photo (from given defective photos) using Machine Learning.
